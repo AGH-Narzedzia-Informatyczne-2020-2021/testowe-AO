@@ -1,1 +1,1 @@
-print("pierwszy raz z gitem"
+print("test gita")
