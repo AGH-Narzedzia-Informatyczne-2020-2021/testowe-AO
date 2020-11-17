@@ -1,5 +1,5 @@
 # Repozytorium Testowe 
-## Anna Ostrowska
+**Anna Ostrowska**
 Stworzone na przedmiot Narzędzia Informatyczne.
 
 ### GitHub Pages
