@@ -3,4 +3,5 @@
 Stworzone na przedmiot Narzędzia Informatyczne.
 
 # GitHub Pages
-link do strony: https://agh-narzedzia-informatyczne.github.io/testowe-AO/
+link: https://agh-narzedzia-informatyczne.github.io/testowe-AO/
+/strona w trakcie tworzenia/
