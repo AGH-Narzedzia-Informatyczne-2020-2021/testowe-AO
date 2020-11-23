@@ -1,2 +1,3 @@
-print("próba")
 print("celowy konflikt")
+print("próba")
+
